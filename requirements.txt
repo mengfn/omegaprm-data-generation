@@ -1,0 +1,4 @@
+# Optional: core search and tests use Python's standard library only.
+# Install vLLM on a supported machine following its CUDA/platform instructions.
+vllm
+math-verify[antlr4_13_2]
